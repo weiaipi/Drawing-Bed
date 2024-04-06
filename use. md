@@ -1,4 +1,8 @@
 use
 仓库：weiaipi/Drawing-Bed
 分支名：main
-不设置存储路径就是在：仓库根目录
+不设置存储路径就是在：仓库根目录，要创建目录（需要前面加blogs/才能成功？），Obsidian/，记得后面的/
+例：
+创建Obsidian软件的图床，可以设置存储路径为：blogs/Obsidian/
+
+![](https://raw.githubusercontent.com/weiaipi/Drawing-Bed/main/blogs/Obsidian/20240406132004.png)
